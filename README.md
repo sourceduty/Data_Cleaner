@@ -36,9 +36,6 @@ Overall, the role of a "Data Generator" is crucial in data analysis and business
 #
 ### Process Diagram
 
-<details><summary>Process Diagram</summary>
-<br>
-
 ```
 +-----------------------+       +-----------------------+       +-----------------------+
 |       Generation      |   →   |     Organization      |   →   |       Analysis        |
@@ -74,9 +71,6 @@ Overall, the role of a "Data Generator" is crucial in data analysis and business
 |                       |       |                       |       |      data for download|
 +-----------------------+       +-----------------------+       +-----------------------+                      
 ```
-
-<br>    
-</details>
 
 #
 ### Example Usage
