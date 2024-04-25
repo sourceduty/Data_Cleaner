@@ -36,32 +36,39 @@ Overall, the role of a "Data Cleaner & Processor" is crucial in data analysis an
 ### Process Diagram
 
 ```
-+-------------------+    +------------------+    +-------------------+    +--------------------+
-| Data Generation   | -> | Data Collection  | -> | Data Organization | -> | Data Validation    |
-+-------------------+    +------------------+    +-------------------+    +--------------------+
-                                                                                    |
-                                                                                    v
-                                           +-------------------+-----------------+
-                                           | Standardization & Formatting        |
-                                           +-------------------+-----------------+
-                                                                                    |
-                                                                                    v
-                                           +-------------------+-----------------+
-                                           | Data Analysis                       |
-                                           +-------------------+-----------------+
-                                                                                    |
-                                                            /                |                 \
-                                                           /                 |                  \
-                                                          v                  v                   v
-                                  +-------------------+   +-------------------+   +-------------------+
-                                  | Statistical        |   | Exploratory       |   | Advanced          |
-                                  | Analysis           |   | Data Analysis     |   | Visualizations    |
-                                  +-------------------+   +-------------------+   +-------------------+
-                                                                        |
-                                                                        v
-                                             +------------------+--------------------+
-                                             | Summarization & Export                |
-                                             +----------------------------------------+
++-----------------------+       +-----------------------+       +-----------------------+
+|       Generation      |   →   |     Organization      |   →   |       Analysis        |
++-----------------------+       +-----------------------+       +-----------------------+
+|  1. Searching         |       |  1. Basic Sorting     |       |  1. Probability &     |
+|    - Web search for   |       |    - Organize data    |       |     Statistics        |
+|      data sources     |       |      into columns     |       |    - Perform stats    |
+|                       |       |                       |       |      computations     |
+|  2. Synthetic         |       |  2. Validation        |       |  2. Exploratory Data  |
+|    - Generate         |       |    - Remove incorrect |       |     Analysis          |
+|      synthetic data   |       |      data             |       |    - Explore data     |
+|                       |       |                       |       |      distribution     |
+|  3. Process           |       |  3. Standard          |       |  3. Trends            |
+|    - Use organization |       |    - Standardize text |       |    - Identify trends  |
+|      process          |       |                       |       |                       |
+|                       |       |  4. Format            |       |  4. Similarities      |
+|                       |       |    - Ensure           |       |    - Find similarities|
+|                       |       |      consistent       |       |                       |
+|                       |       |      formatting       |       |  5. Visualization     |
+|                       |       |                       |       |    - Visualize data   |
+|                       |       |  5. Export            |       |                       |
+|                       |       |    - Prepare data     |       |  6. Advanced          |
+|                       |       |      for download     |       |     Visualization     |
+|                       |       |                       |       |    - Different types  |
+|                       |       |                       |       |      of charts        |
+|                       |       |                       |       |  7. Advanced Sorting  |
+|                       |       |                       |       |    - Use advanced     |
+|                       |       |                       |       |      sorting methods  |
+|                       |       |                       |       |  8. Summarization     |
+|                       |       |                       |       |    - Summarize data   |
+|                       |       |                       |       |  9. Export            |
+|                       |       |                       |       |    - Prepare final    |
+|                       |       |                       |       |      data for download|
++-----------------------+       +-----------------------+       +-----------------------+                      
 ```
 
 ***
