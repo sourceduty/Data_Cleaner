@@ -4,7 +4,7 @@
 
 1. **Generation**:
    
-   - **Specification of Requirements**: Define the requirements for the synthetic data, including the number of records, field types (numerical, categorical, dates), and specific distributions or correlations.
+   - **Specification of Requirements**: Define the requirements for real or synthetic data, including the number of records, field types (numerical, categorical, dates), and specific distributions or correlations.
    - **Designing Data Models**: Create a data model outlining the structure, including relationships between fields (dependencies, hierarchies).
    - **Generating Data**: Use algorithms and random number generators to produce data according to the model, ensuring adherence to specified distributions, constraints, and relationships.
    - **Applying Noise and Variability**: Introduce noise and variability to make the synthetic data realistic and to simulate real-world data scenarios.
