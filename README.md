@@ -2,14 +2,24 @@
 
 [Data Generator](https://chat.openai.com/g/g-z6S0qcei3-data-generator) was developed to perform several specific functions related to managing and analyzing data. Here's what it typically involves:
 
-1. **Organization**:
+1. **Generation**:
+   
+   - **Specification of Requirements**: Define the requirements for the synthetic data, including the number of records, field types (numerical, categorical, dates), and specific distributions or correlations.
+   - **Designing Data Models**: Create a data model outlining the structure, including relationships between fields (dependencies, hierarchies).
+   - **Generating Data**: Use algorithms and random number generators to produce data according to the model, ensuring adherence to specified distributions, constraints, and relationships.
+   - **Applying Noise and Variability**: Introduce noise and variability to make the synthetic data realistic and to simulate real-world data scenarios.
+   - **Validation and Refinement**: Validate the generated data to ensure it meets the original specifications through statistical analyses; refine as necessary.
+   - **Export**: Format and export the data once it meets all requirements, typically in formats like CSV, JSON, or direct database integration.
+
+
+2. **Organization**:
    - **Basic Sorting**: Organize the input data into structured formats, categorizing them into named and ordered columns.
    - **Validation**: This includes removing incorrect, irrelevant, or duplicate data and filling in or managing missing data points.
    - **Standardization**: Ensure consistency in word grammar and capitalization across data entries.
    - **Formatting**: Apply consistent formatting rules to the data to make it uniform and easier to analyze.
    - **Export**: Provide options to export the cleaned and organized data for further use or analysis.
 
-2. **Analysis**:
+3. **Analysis**:
    - **Probability & Statistics**: Compute statistical measures such as mean, median, standard deviation, and correlation, and apply probability distribution analyses.
    - **Exploratory Data Analysis (EDA)**: Analyze the data to understand its distribution, explore various types of columns (e.g., numerical, categorical), and identify underlying patterns or trends.
    - **Trends**: Focus on identifying and analyzing trends within the data to forecast or make informed decisions.
