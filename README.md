@@ -30,7 +30,7 @@
    - **Summarization**: Summarize the key findings from the data, providing a concise overview of the results.
    - **Export**: Offer the ability to export analyzed and visualized data as a .csv file or other formats for external use.
 
-Overall, the role of a "Data Cleaner & Processor" is crucial in data analysis and business intelligence, ensuring that data is clean, well-organized, and ready for insightful analysis.
+Overall, the role of a "Data Generator" is crucial in data analysis and business intelligence, ensuring that data is clean, well-organized, and ready for insightful analysis.
 
 #
 ### Process Diagram
