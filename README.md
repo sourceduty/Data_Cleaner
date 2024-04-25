@@ -35,6 +35,9 @@ Overall, the role of a "Data Cleaner & Processor" is crucial in data analysis an
 #
 ### Process Diagram
 
+<details><summary>Process Diagram</summary>
+<br>
+
 ```
 +-----------------------+       +-----------------------+       +-----------------------+
 |       Generation      |   →   |     Organization      |   →   |       Analysis        |
@@ -70,6 +73,28 @@ Overall, the role of a "Data Cleaner & Processor" is crucial in data analysis an
 |                       |       |                       |       |      data for download|
 +-----------------------+       +-----------------------+       +-----------------------+                      
 ```
+
+<br>    
+</details>
+
+#
+### Example Usage
+
+<details><summary>Skateboard Sales</summary>
+<br>
+
+[Skateboard_Market_Data.csv](https://github.com/sourceduty/Data_Generator/files/15119031/Skateboard_Market_Data.csv)
+
+The global skateboard market was valued at approximately USD 3.6 billion in 2023 and is expected to experience sustained growth due to the increasing popularity of skateboarding among the youth, who view it not only as a physical activity but also as a form of artistic expression and social connection​ (dataintelo)​. The market is projected to grow from USD 2.83 billion in 2023 to USD 4.16 billion by 2031, with a compound annual growth rate (CAGR) of 4.38%​ (skyquestt)​.
+
+North America holds a significant share of the skateboard market, driven by a strong skateboarding culture and high market awareness. In Europe, the market is also expanding, supported by the rise of skateboarding influencers and events​ (grandviewresearch)​. The Asia Pacific region is expected to register the fastest growth, thanks to increasing awareness of outdoor sports and rising health concerns related to obesity and physical inactivity among children​ (grandviewresearch)​.
+
+Key factors contributing to market growth include technological innovations in skateboard design, such as the introduction of electric skateboards and smart skateboards equipped with IoT technology. There is also a growing emphasis on eco-friendly materials and practices in the manufacturing of skateboards​ (Cognitive Market Research)​.
+
+![Skateboard_Market_Growth](https://github.com/sourceduty/Data_Generator/assets/123030236/56248b4a-870e-49c6-ab85-6628118a2f60)
+
+<br>    
+</details>
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
