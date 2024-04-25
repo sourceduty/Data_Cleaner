@@ -39,7 +39,7 @@ Overall, the role of a "Data Cleaner & Processor" is crucial in data analysis an
 +-----------------------+       +-----------------------+       +-----------------------+
 |       Generation      |   →   |     Organization      |   →   |       Analysis        |
 +-----------------------+       +-----------------------+       +-----------------------+
-|  1. Searching         |       |  1. Basic Sorting     |       |  1. Probability &     |
+|  1. Real Data         |       |  1. Basic Sorting     |       |  1. Probability &     |
 |    - Web search for   |       |    - Organize data    |       |     Statistics        |
 |      data sources     |       |      into columns     |       |    - Perform stats    |
 |                       |       |                       |       |      computations     |
