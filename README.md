@@ -1,6 +1,6 @@
 ![Data Cleaner](https://github.com/sourceduty/Data_Cleaner/assets/123030236/33477d90-704b-4a06-b07b-5af08bb642f4)
 
-[Data Cleaner & Processor](https://chat.openai.com/g/g-z6S0qcei3-data-cleaner-processor) was developed to perform several specific functions related to managing and analyzing data. Here's what it typically involves:
+[Data Generator](https://chat.openai.com/g/g-z6S0qcei3-data-generator) was developed to perform several specific functions related to managing and analyzing data. Here's what it typically involves:
 
 1. **Organization**:
    - **Basic Sorting**: Organize the input data into structured formats, categorizing them into named and ordered columns.
