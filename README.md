@@ -93,6 +93,8 @@ Key factors contributing to market growth include technological innovations in s
 
 ![Skateboard_Market_Growth](https://github.com/sourceduty/Data_Generator/assets/123030236/56248b4a-870e-49c6-ab85-6628118a2f60)
 
+![Skateboard_Market_Share](https://github.com/sourceduty/Data_Generator/assets/123030236/6ad08385-d43d-425c-81c5-81ef90297795)
+
 <br>    
 </details>
 
