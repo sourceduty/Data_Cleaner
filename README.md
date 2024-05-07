@@ -99,6 +99,8 @@ Key factors contributing to market growth include technological innovations in s
 [Data Project](https://chat.openai.com/g/g-Rwc3ikNU7-data-project)
 <br>
 [Data Projects](https://github.com/sourceduty/Data_Projects)
+<br>
+[Research Generator](https://github.com/sourceduty/Research_Generator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
