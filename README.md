@@ -101,6 +101,12 @@ Key factors contributing to market growth include technological innovations in s
 [Data Projects](https://github.com/sourceduty/Data_Projects)
 <br>
 [Research Generator](https://github.com/sourceduty/Research_Generator)
+<br>
+[Dataset Analyzer](https://chatgpt.com/g/g-cYFvzXtdg-dataset-analyzer)
+<br>
+[Data Generator](https://github.com/sourceduty/Data_Generator)
+<br>
+[Data Architect](https://github.com/sourceduty/Data_Architect)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
